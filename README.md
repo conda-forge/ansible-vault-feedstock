@@ -5,11 +5,11 @@ Home: https://github.com/tomoh1r/ansible-vault
 
 Package license: GPL-3.0-only
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ansible-vault-feedstock/blob/master/LICENSE.txt)
 
 Summary: R/W an ansible-vault yaml file
 
-
+Development: https://github.com/tomoh1r/ansible-vault
 
 Current build status
 ====================
